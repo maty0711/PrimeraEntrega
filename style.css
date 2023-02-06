@@ -1,0 +1,22 @@
+body
+{
+color: rgb(88, 14, 14);
+background-color: gray;
+width: auto;
+text-align: center;
+}
+
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 6rem
+    
+}
+
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: Bold;
+    font-size: 6rem;
+    
+}
